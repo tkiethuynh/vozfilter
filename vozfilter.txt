@@ -1,4 +1,4 @@
-! Title: Fuck Fuckadblock
+! Title: VozFilter
 ! Description: Hide threads and user comments by keywords
 ! Author: Huynh Tuan Kiet
 ! Homepage: https://github.com/tkiethuynh/vozfilter
