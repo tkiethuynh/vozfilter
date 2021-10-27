@@ -1,5 +1,5 @@
 ! Title: VozFilter
-! Description: Hide threads and user comments by frequent journalism keywords
+! Description: Hide threads and user comments by frequent clickbait journalism keywords
 ! Author: Kiet Huynh
 ! Homepage: https://github.com/tkiethuynh/vozfilter
 ! Licence: https://github.com/philsturgeon/dbad/blob/master/LICENSE.md
