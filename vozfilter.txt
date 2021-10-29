@@ -1,6 +1,6 @@
 ! Title: VozFilter
-! Description: Hide threads and user comments by keywords
-! Author: Huynh Tuan Kiet
+! Description: Hide threads and user comments by frequent clickbait journalism keywords
+! Author: Kiet Huynh
 ! Homepage: https://github.com/tkiethuynh/vozfilter
 ! Licence: https://github.com/philsturgeon/dbad/blob/master/LICENSE.md
 ! RAW: https://raw.githubusercontent.com/tkiethuynh/vozfilter/main/vozfilter.txt
@@ -9,4 +9,5 @@ voz.vn##.sponsors.p-footer-row
 voz.vn##div.p-footer-row:nth-of-type(2)
 voz.vn##.p-body-sidebar
 voz.vn##.message-inner:-abp-contains(/Nanamin.|Rapper tlinh trùng sinh/i)
-voz.vn##.is-unread:has-text(/Kim Dung|squid game|trò chơi con mực|hoa hậu|Gen Z|Trấn Thành|running man|Phương Hằng|Trường Giang|Lan Ngọc|Sơn Tùng|Mỹ nhân|tiểu tam|trà xanh|kết đắng|cái kết|Trương Bá Chi|Lưu Đức Hoa|Quang Lê|nghi phạm|olympia|cưỡng hiếp|hãm hiếp|mại dâm|tây du ký|tôn ngộ không|đọ dáng|mát mẻ|hot girl|sát hại|đồng tính|múi mít|cô gái|nam thanh niên|án mạng/i)
+
+voz.vn##.is-unread:has-text(/Kim Dung|squid game|trò chơi con mực|hoa hậu|Gen Z|Trấn Thành|running man|Phương Hằng|Trường Giang|Lan Ngọc|Sơn Tùng|Mỹ nhân|tiểu tam|trà xanh|kết đắng|cái kết|Trương Bá Chi|Lưu Đức Hoa|Quang Lê|nghi phạm|olympia|cưỡng hiếp|hãm hiếp|mại dâm|tây du ký|tôn ngộ không|đọ dáng|mát mẻ|hot girl|sát hại|đồng tính|múi mít|cô gái|nam thanh niên|khiêu dâm|án mạng/i)
