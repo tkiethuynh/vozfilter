@@ -7,6 +7,6 @@
 voz.vn##.sponsors.p-footer-row
 voz.vn##div.p-footer-row:nth-of-type(2)
 voz.vn##.p-body-sidebar
-voz.vn##.message-inner:-abp-contains(/Nanamin.|Rapper tlinh trùng sinh|Doan Cai Luong SG|HondaTsubasa/i)
+voz.vn##.message-inner:-abp-contains(/Nanamin.|Rapper tlinh trùng sinh|Doan Cai Luong SG|HondaTsubasa|ĐÀ0 BÁ LỘC/i)
 
 voz.vn##.is-unread:has-text(/Kim Dung|squid game|trò chơi con mực|hoa hậu|Gen Z|Trấn Thành|running man|Phương Hằng|Trường Giang|Lan Ngọc|Sơn Tùng|Mỹ nhân|tiểu tam|trà xanh|kết đắng|cái kết|Trương Bá Chi|Lưu Đức Hoa|Quang Lê|nghi phạm|olympia|cưỡng hiếp|cưỡng dâm|hãm hiếp|mại dâm|hiếp dâm|gạ tình|tây du ký|tôn ngộ không|đọ dáng|mát mẻ|hot girl|đồng tính|múi mít|cô gái|nam thanh niên|khiêu dâm|án mạng|giết hại|sát hại|soái ca|bà lão|gây bão|Quan Chi Lâm|làm bậy|chôn xác|phá án|sugar baby|sugarbaby|quỳnh búp bê|duy nến|quyến rũ|đoạt mạng|bạn nhậu|hotgirl|sốc|giấu xác|siêu độc/i)
