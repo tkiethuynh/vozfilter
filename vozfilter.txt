@@ -6,7 +6,6 @@
 
 voz.vn##.p-body-sidebar
 voz.vn##.p-body-pageContent > .adsbypubpower
-voz.vn##div.block:nth-of-type(2)
 voz.vn##.structItemContainer > .adsbypubpower
 voz.vn##.adsbypubpower
 voz.vn##.p-navgroup-link--user.p-navgroup-link--iconic.p-navgroup-link > .p-navgroup-linkText
