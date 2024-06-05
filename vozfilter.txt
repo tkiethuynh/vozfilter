@@ -6,6 +6,7 @@
 
 voz.vn##.sponsors.p-footer-row
 voz.vn##div.p-footer-row:nth-of-type(2)
+voz.vn##div.block:nth-of-type(2)
 voz.vn##.p-body-sidebar
 voz.vn##.p-navgroup-link--user.p-navgroup-link--iconic.p-navgroup-link > .p-navgroup-linkText
 
